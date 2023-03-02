@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+header {
+    text-align: center;
+}
+
+.foto {
+    text-align: center;
+}
+
+.espacio {
+    height: 80px;
+}
+
+.titulo {
+    background-color: green;
+    color: white;
+    text-align: center;
+    letter-spacing: 10px;
+    font-family:'Lato';
+}
+
+.sub-titulo {
+    background-color: green;
+    color: white;
+    letter-spacing: 5px;
+    text-align: left;
+    font-family:'Lato';
+}
+
+ul {
+    text-align: left;
+    font-family:'Lato';
+}
+
+.italic {
+    font-weight: bold;
+    font-style: italic;
+    font-family:'Lato';
+}
+
+dl {
+    text-align: left;
+    font-family:'Lato';
+}
+
+.pie-pagina {
+    text-align: center;
+    background-color: green;
+    color: white;
+    font-family:'Lato';
+}
